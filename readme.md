@@ -18,7 +18,7 @@
 <br>
 
 ## SeBISA: Semua Pasti Bisa
-![OfficeDesk Logo](images/uisebisa1.png)
+![OfficeDesk Logo](images/uisebisa1.png) 
 <b>Overview</b>
 <br>Sebuah aplikasi yang dibuat karena masalah pribadi dan masalah yang dialami teman sekitar. Aplikasi yang memudahkan pengguna yang ingin banyak belajar, tetapi sulit untuk mendapatkan sumber yang relevan.
 
@@ -50,3 +50,5 @@
 ![OfficeDesk Logo](images/uisebisa8.png)
 <br>
 <b>SeBISA Profile Menu</b>
+
+Credit by ***Fikri Padillah***<br>
