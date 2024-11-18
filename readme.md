@@ -1,4 +1,4 @@
-# UAS PEMPROGRAMAN MOBILE 2
+# UAS PEMPROGRAMAN MOBILE
 ***Nama : Fikri Padillah***<br>
 ***Nim : 312310214***<br>
 ***Kelas : TI.23.C3***
@@ -17,7 +17,7 @@
 
 <br>
 
-## SeBISA
+## SeBISA: Semua Pasti Bisa
 ![OfficeDesk Logo](appsui/uisebisa1.png)
 <b>Overview</b>
 <br>Sebuah aplikasi yang dibuat karena masalah pribadi dan masalah yang dialami teman sekitar. Aplikasi yang memudahkan pengguna yang ingin banyak belajar, tetapi sulit untuk mendapatkan sumber yang relevan.
