@@ -18,13 +18,35 @@
 <br>
 
 ## SeBISA: Semua Pasti Bisa
-![OfficeDesk Logo](appsui/uisebisa1.png)
+![OfficeDesk Logo](images/uisebisa1.png)
 <b>Overview</b>
 <br>Sebuah aplikasi yang dibuat karena masalah pribadi dan masalah yang dialami teman sekitar. Aplikasi yang memudahkan pengguna yang ingin banyak belajar, tetapi sulit untuk mendapatkan sumber yang relevan.
 
 ## Storyboard
-![OfficeDesk Logo](appsui/storyboardsebisa.png)
+![OfficeDesk Logo](images/storyboardsebisa.png)
 ## Mockup
-![OfficeDesk Logo](appsui/mockupsebisa.png)
+![OfficeDesk Logo](images/mockupsebisa.png)
 ## User Interface SeBISA
-![OfficeDesk Logo](appsui/mockupsebisa.png)
+![OfficeDesk Logo](images/uisebisa2.png)
+<br>
+<b>SeBISA Login Page</b>
+
+## User Interface SeBISA
+![OfficeDesk Logo](images/uisebisa3.png)
+<br>
+<b>SeBISA Menu</b>
+
+## User Interface SeBISA
+![OfficeDesk Logo](images/uisebisa4.png)
+<br>
+<b>SeBISA Tutorial Menu</b>
+
+## User Interface SeBISA
+![OfficeDesk Logo](images/uisebisa5.png)
+<br>
+<b>SeBISA Pilihan Tutorial</b>
+
+## User Interface SeBISA
+![OfficeDesk Logo](images/uisebisa8.png)
+<br>
+<b>SeBISA Profile Menu</b>
